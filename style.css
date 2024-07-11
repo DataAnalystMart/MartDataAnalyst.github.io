@@ -1,0 +1,16 @@
+img {
+    max-width: 60px; /* Adjust this value to make the image smaller or larger */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Make the image a block element */
+    margin-left: auto; /* Center the image horizontally */
+    margin-right: auto; /* Center the image horizontally */
+}
+
+/* Additional styles for images with a specific class */
+.small-image {
+    max-width: 500px; /* Adjust this value to make the image smaller or larger */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Make the image a block element */
+    margin-left: auto; /* Center the image horizontally */
+    margin-right: auto; /* Center the image horizontally */
+}
